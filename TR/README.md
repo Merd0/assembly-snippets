@@ -44,6 +44,10 @@ TR/
 │   ├── README.md
 │   └── 01_hello_world.asm
 ├── 02-Arithmetic-and-Logic/
+│   ├── 02_01_integer_arithmetic.asm
+│   ├── 02_02_mult_div_lo_hi.asm
+│   ├── 02_03_bitwise_and_shift.asm
+│   ├── 02_04_expression_pipeline.asm
 │   └── README.md
 ├── 03-Control-Flow/
 │   └── README.md
