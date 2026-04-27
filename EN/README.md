@@ -26,6 +26,7 @@ This repository provides a **zero-to-expert** MIPS32 Assembly curriculum with pr
 
 ## Curriculum Overview
 
+0. **00-Study-Roadmap** — How to study the repository effectively
 1. **01-Hello-MIPS** — Segments, registers, basic syscalls
 2. **02-Arithmetic-and-Logic** — Arithmetic, bitwise ops, `mult/div`
 3. **03-Control-Flow** — Comparisons, branching, loops
@@ -40,6 +41,11 @@ This repository provides a **zero-to-expert** MIPS32 Assembly curriculum with pr
 
 ```text
 EN/
+├── 00-Study-Roadmap/
+│   ├── 01_learning_path.md
+│   ├── 02_weekly_plan.md
+│   ├── 03_practice_checklist.md
+│   └── README.md
 ├── 01-Hello-MIPS/
 │   ├── 01_hello_world.asm
 │   └── README.md
@@ -90,3 +96,7 @@ EN/
 ```
 
 > Note: `TR/` remains perfectly symmetric in structure and file naming.
+
+## Study Start
+
+- New here? Start with `00-Study-Roadmap/README.md` before stage 01.

@@ -26,6 +26,7 @@ Bu depo, MIPS32 Assembly için **sıfırdan uzmanlığa** uzanan, uygulama odakl
 
 ## Müfredat Özeti
 
+0. **00-Study-Roadmap** — Depoyu nasil verimli calisacagini anlatan rehber
 1. **01-Hello-MIPS** — Segmentler, register'lar, temel syscall
 2. **02-Arithmetic-and-Logic** — Aritmetik, bit işlemleri, `mult/div`
 3. **03-Control-Flow** — Karşılaştırma, dallanma, döngüler
@@ -40,6 +41,11 @@ Bu depo, MIPS32 Assembly için **sıfırdan uzmanlığa** uzanan, uygulama odakl
 
 ```text
 TR/
+├── 00-Study-Roadmap/
+│   ├── 01_learning_path.md
+│   ├── 02_weekly_plan.md
+│   ├── 03_practice_checklist.md
+│   └── README.md
 ├── 01-Hello-MIPS/
 │   ├── 01_hello_world.asm
 │   └── README.md
@@ -90,3 +96,7 @@ TR/
 ```
 
 > Not: `EN/` klasörü yapı ve dosya isimleri açısından birebir simetriktir.
+
+## Nereden Baslamali?
+
+- Yeni basliyorsan asama 01 oncesi `00-Study-Roadmap/README.md` dosyasini oku.
