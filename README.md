@@ -1,4 +1,8 @@
-# MIPS32 Assembly Master Repository
+# MIPS32 Assembly — Bilingual Learning Lab
+
+**English | [Türkçe](TR/README.md)**
+
+**[English study roadmap](EN/00-Study-Roadmap/README.md) · [Türkçe çalışma planı](TR/00-Study-Roadmap/README.md)**
 
 Bilingual (TR/EN) MIPS32 Assembly curriculum designed for progressive, hands-on mastery from fundamentals to system-level topics.
 
