@@ -1,5 +1,23 @@
 # MIPS32 Assembly Yol Haritası (TR)
 
+**[English](../EN/README.md) | Türkçe** · [Depo ana sayfası](../README.md)
+
+## Çalışmaya başla
+
+Aşağıdaki ders bağlantılarının hepsi **Türkçe** modüllere gider. Dili değiştirmek istersen yukarıdaki İngilizce bağlantısını kullan.
+
+0. [Çalışma yol haritası](00-Study-Roadmap/README.md)
+1. [MIPS'e giriş](01-Hello-MIPS/README.md)
+2. [Aritmetik ve mantık](02-Arithmetic-and-Logic/README.md)
+3. [Kontrol akışı](03-Control-Flow/README.md)
+4. [Bellek ve diziler](04-Memory-and-Arrays/README.md)
+5. [Fonksiyonlar ve stack](05-Functions-and-Stack/README.md)
+6. [Kayan nokta FPU](06-Floating-Point-FPU/README.md)
+7. [Makrolar](07-Macros/README.md)
+8. [Kesmeler ve istisnalar](08-Interrupts-and-Exceptions/README.md)
+9. [Mini projeler (mevcut durum)](09-Mini-Projects/README.md)
+
+
 Bu depo, MIPS32 Assembly için **sıfırdan uzmanlığa** uzanan, uygulama odaklı ve MARS/QtSPIM üzerinde doğrudan çalıştırılabilir bir eğitim müfredatı sunar.
 
 ## Amaç

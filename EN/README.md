@@ -1,5 +1,23 @@
 # MIPS32 Assembly Learning Roadmap (EN)
 
+**English | [Türkçe](../TR/README.md)** · [Repository overview](../README.md)
+
+## Start studying
+
+Select a stage below. Each link opens the **English** module directly; use the language link at the top to switch curriculum language.
+
+0. [Study roadmap](00-Study-Roadmap/README.md)
+1. [Hello MIPS](01-Hello-MIPS/README.md)
+2. [Arithmetic and logic](02-Arithmetic-and-Logic/README.md)
+3. [Control flow](03-Control-Flow/README.md)
+4. [Memory and arrays](04-Memory-and-Arrays/README.md)
+5. [Functions and stack](05-Functions-and-Stack/README.md)
+6. [Floating-point FPU](06-Floating-Point-FPU/README.md)
+7. [Macros](07-Macros/README.md)
+8. [Interrupts and exceptions](08-Interrupts-and-Exceptions/README.md)
+9. [Mini projects (current status)](09-Mini-Projects/README.md)
+
+
 This repository provides a **zero-to-expert** MIPS32 Assembly curriculum with practical, simulator-ready examples for MARS/QtSPIM.
 
 ## Goal
